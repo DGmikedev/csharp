@@ -1,0 +1,16 @@
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\bin\Debug\net8.0-windows\DemoWinForms.exe
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\bin\Debug\net8.0-windows\DemoWinForms.deps.json
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\bin\Debug\net8.0-windows\DemoWinForms.runtimeconfig.json
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\bin\Debug\net8.0-windows\DemoWinForms.dll
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\bin\Debug\net8.0-windows\DemoWinForms.pdb
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.Form1.resources
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.csproj.GenerateResource.cache
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.AssemblyInfoInputs.cache
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.AssemblyInfo.cs
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.dll
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\refint\DemoWinForms.dll
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.pdb
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\DemoWinForms.genruntimeconfig.cache
+C:\Users\El JEFE\Desktop\csharp\DemoWinForms\obj\Debug\net8.0-windows\ref\DemoWinForms.dll
