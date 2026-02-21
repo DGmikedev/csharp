@@ -28,20 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
+            lbl1 = new Label();
             btnSave = new Button();
             btnCancel = new Button();
             btnShowHelp = new Button();
             SuspendLayout();
             // 
-            // label1
+            // lbl1
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(12, 9);
-            label1.Name = "label1";
-            label1.Size = new Size(34, 15);
-            label1.TabIndex = 0;
-            label1.Text = "MDG";
+            lbl1.AutoSize = true;
+            lbl1.Location = new Point(12, 9);
+            lbl1.Name = "lbl1";
+            lbl1.Size = new Size(38, 15);
+            lbl1.TabIndex = 0;
+            lbl1.Text = "Test_1";
             // 
             // btnSave
             // 
@@ -81,7 +81,7 @@
             Controls.Add(btnShowHelp);
             Controls.Add(btnCancel);
             Controls.Add(btnSave);
-            Controls.Add(label1);
+            Controls.Add(lbl1);
             Name = "Form1";
             Text = "Demo Aplication";
             Load += Form1_Load;
@@ -91,7 +91,7 @@
 
         #endregion
 
-        private Label label1;
+        private Label lbl1;
         private Button btnSave;
         private Button btnCancel;
         private Button btnShowHelp;

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PfvNyAcSX/Q=",
+  "dgSpecHash": "hrWS50Z1kho=",
   "success": true,
   "projectFilePath": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\DemoWinForms.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\El JEFE\\.nuget\\packages\\questpdf\\2026.2.1\\questpdf.2026.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

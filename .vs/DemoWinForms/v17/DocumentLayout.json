@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|c:\\users\\el jefe\\desktop\\csharp\\demowinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|c:\\users\\el jefe\\desktop\\csharp\\demowinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|c:\\users\\el jefe\\desktop\\csharp\\demowinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|c:\\users\\el jefe\\desktop\\csharp\\demowinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893E9E6D-1318-4FB5-B656-8DED43EB1067}|DemoWinForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:15:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -38,26 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAhwEkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:27:37.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\El JEFE\\Desktop\\csharp\\DemoWinForms\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T18:32:13.311Z",
               "EditorCaption": ""
